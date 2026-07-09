@@ -1,0 +1,37 @@
+job_id,job_title,department
+1,Front-End Developer,R&D
+2,Back-End Developer,R&D
+3,Full-Stack Developer,R&D
+4,DevOps Engineer,R&D
+5,UX Designer,Design
+6,UI Designer,Design
+7,Graphic Designer,Design
+8,Web Designer,Design
+9,Product Designer,Design
+10,Product Manager,Product Management
+11,Product Analyst,Product Management
+12,Associate Product Manager,Product Management
+13,Senior Product Manager,Product Management
+14,Product Operations Manager,Product Management
+15,IT Manager,IT & Networking
+16,Network Engineer,IT & Networking
+17,System Administrator,IT & Networking
+18,Security Analyst,IT & Networking
+19,IT Support Technician,IT & Networking
+20,Data Scientist,Data & Analytics
+21,Data Analyst,Data & Analytics
+22,Business Intelligence Analyst,Data & Analytics
+23,Data Engineer,Data & Analytics
+24,Machine Learning Engineer,Data & Analytics
+25,Digital Marketing Manager,Marketing
+26,SEO Specialist,Marketing
+27,Content Marketing Manager,Marketing
+28,Social Media Manager,Marketing
+29,PR Manager,Marketing
+30,Front-End Developer,R&D
+31,Back-End Developer,R&D
+32,Full-Stack Developer,R&D
+33,DevOps Engineer,R&D
+34,UX Designer,Design
+35,UI Designer,Design
+36,Graphic Designer,Design
